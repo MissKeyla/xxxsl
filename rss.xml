@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="XSL.xsl"?>
+<rss version="2.0"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>Bash.im</title>
+		<link>http://bash.im/</link>
+		<atom:link href="http://bash.im/rss/" rel="self" type="application/rss+xml" />
+		<description>Цитатник Рунета</description>
+		<language>ru</language>
+		
+		<item>
+			<guid isPermaLink="false">9ae93db7a690c0389e330e2f0dee82141f11e3f64d60e03a81b000d0da5ea0b9</guid>
+			<link>http://bash.im/quote/427063</link>
+			<title>Цитата #427063</title>
+			<pubDate>Tue, 04 Mar 2014 10:13:01 +0400</pubDate> 
+			<description><![CDATA[xxx: Я смотрю QR коды уже везде: в метро, на такси, в магазинах<br>yyy: И никто ими не пользуется]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">5f51e9d1cf821cc4921b1c3e7f14f8928d3ddcaf08b17c847048804ac5de6209</guid>
+			<link>http://bash.im/quote/427062</link>
+			<title>Цитата #427062</title>
+			<pubDate>Tue, 04 Mar 2014 09:46:19 +0400</pubDate> 
+			<description><![CDATA[ххх: Я тут недавно к девочке зашёл, мы в кино собирались идти. Ну она, как любая порядочная девочка, естессно не собрана, стою жду. Носится вокруг меня то с одёжкой, то с обувкой, то с феном. Вроде всё, почти готова, последние штрихи. Вдруг тормозит рядом на полной скорости, чуть подошвы не задымились, и шлёпает себя по лбу &quot;Ой, прокладку же надо поменять, а то шухер будет!&quot; И ломится в ванную. Стою такой прифигевший, я не моралфаг, конечно, но этот как-то слишком... Из ванной грохот минуты на две, потом тишина. Открывается дверь, девочка выходит с закатанными рукавами нарядного костюмчика и с разводным ключом в красивых лапках. &quot;Пардон, - говорит, - сейчас причешусь и можно идти.&quot;]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">5fe2fb87a891d7cfc5a72a66a768daad0588237d65359b50401a80b02f9ca9f3</guid>
+			<link>http://bash.im/quote/427061</link>
+			<title>Цитата #427061</title>
+			<pubDate>Tue, 04 Mar 2014 09:45:01 +0400</pubDate> 
+			<description><![CDATA[xxx:<br>вспомнила почему-то, как в позапрошлом году поздравляла с 23 февраля мужиков в юротделе и всем было неловко, что среди них всех только я - офицер. да чо там, только я военнообязанная.<br>где мой гель для бритья и пачка новых носков]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">39029763542f832fa447b40de6fec3b0e9160ed65a53ea6a53ec1cc8496388cb</guid>
+			<link>http://bash.im/quote/427060</link>
+			<title>Цитата #427060</title>
+			<pubDate>Tue, 04 Mar 2014 09:13:05 +0400</pubDate> 
+			<description><![CDATA[xxx: Энергия вообще гениальная ракета была!<br>yyy: Так она ж на 100 тонн груза! Самая маленькая энергия была на 35 тонн, это три телескопа хабл. Разве что тепловоз еще до кучи можно запустить по приколу<br>zzz: КОСМИЧЕСКИЙ КРЕЙСЕР ВЛ-85<br>yyy: &quot;Адмирал флота Советского Союза И.Ямамотин&quot;<br>zzz: ТАККР ;)]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">cbafb9b5e874edef487e851f51210997b3069683bc978117bbaf7aef7e3ea1cf</guid>
+			<link>http://bash.im/quote/427059</link>
+			<title>Цитата #427059</title>
+			<pubDate>Tue, 04 Mar 2014 09:11:50 +0400</pubDate> 
+			<description><![CDATA[xxx: Ща поем и пылесос куплю<br>xxx: А то жена в командировку уехала<br>yyy: ээмммм<br>yyy: надеюсь, ты с его помощью убираться будешь?]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">c258a5a6ad9efb432d27a5571304dea3896abc4600daa7aeb73ebdc59448544a</guid>
+			<link>http://bash.im/quote/427058</link>
+			<title>Цитата #427058</title>
+			<pubDate>Tue, 04 Mar 2014 09:11:01 +0400</pubDate> 
+			<description><![CDATA[Муж пришел с работы, а мы у него в комнате с дочкой на его компе фильм смотрим.<br>М: Вот, мой комп смотрите, мои семечки сожрали, мою минералку выпили!<br>Уходим, и я мстительно добавляю:<br>Мы еще на твоем диване лежали, твои пледом укрывались и ТВОЕГО КОТА гладили!!!]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">61d6225fbb8d8f11f7c0ce988b0400d5cd9d54f6d3eef1545dd1ebbd6ad3eb96</guid>
+			<link>http://bash.im/quote/427057</link>
+			<title>Цитата #427057</title>
+			<pubDate>Tue, 04 Mar 2014 08:45:57 +0400</pubDate> 
+			<description><![CDATA[Разговор о повадках собак:<br><br>2 Night_One: У друга есть щенок стаффорда. Так вот он на команду - &quot;Принеси палочку&quot;, принес деревце метров 5 в длину, см. 20 в обхвате. Аккуратненько отломил у самой травки. А так дружелюбный, да.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">87c0ae58788a69b30c285803cd8a7f50ba9d3da04a0f5fdcbc19bcc7b9b31abd</guid>
+			<link>http://bash.im/quote/427056</link>
+			<title>Цитата #427056</title>
+			<pubDate>Tue, 04 Mar 2014 08:45:01 +0400</pubDate> 
+			<description><![CDATA[м: Хотя, можно что-то прикольное придумать на свадьбу.<br>м: А-ля &quot;свадьба в стиле Гарри Поттера&quot; :)<br>д: Ой ну не....<br>М: на эту тетку в загсе одеть распределительную шапку<br>д: Мы ж не фанатики какие то<br>м: а вместо колец обмениваться палочками с кольцами<br>д: Что, что, что вместо колец ?!<br>м: волшебными палочками, для волшебников они же самые важные<br>д: Так, нет, я хочу свое кольцо, я горлум.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">120c4f0cce971d7ca45f425a65a1ab2a7b857e275b3172963e6d1f7ff0e9b882</guid>
+			<link>http://bash.im/quote/427055</link>
+			<title>Цитата #427055</title>
+			<pubDate>Tue, 04 Mar 2014 08:12:47 +0400</pubDate> 
+			<description><![CDATA[ххх: Нужно было мне отксерить опросник. 50 листов. Запустил, а сам лег на диванчик с планшетом. Сразу прибежал кот, уселся на ксерокс сверху. Очень он уважает это дело. Листы с одной стороны всасываются, а с другой выплевываются. Сидит, наблюдает. Все отксерилось, а он сидит, ждет. Потом поворачивается ко мне и говорит: &quot;Мяу!&quot; Ну, я ему: &quot;Кузя, если хочешь еще, нажми большую зеленую кнопочку&quot;.<br>ууу: Ну, и?<br>ххх: Не поверишь, нажал!]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">7bcafa58c8441aa6f296c6ef14ab61315ffeb6261656263e6f2226f80a847e4b</guid>
+			<link>http://bash.im/quote/427054</link>
+			<title>Цитата #427054</title>
+			<pubDate>Tue, 04 Mar 2014 08:12:01 +0400</pubDate> 
+			<description><![CDATA[xxx: В 30 лет не сидят на этом сайте<br><br>yyy: лол, да люди около 30-ти - одна из основных целевых аудиторий этого сайта, наряду со школьниками. А в комментариях еще и людей старше можно отыскать, если приглядеться. 30 лет - это 1983 - 84 гг рождения, молодые люди, которые уже вполне прекрасно знают, что такое интернет.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">118c2c7d568dd2ebe4ef0c11ca7a30a7a64be099b0958078531e92f07952c1db</guid>
+			<link>http://bash.im/quote/427053</link>
+			<title>Цитата #427053</title>
+			<pubDate>Mon, 03 Mar 2014 12:45:39 +0400</pubDate> 
+			<description><![CDATA[xxx:<br>Есть у меня друг - огромный дядька с длинными волосами. Идёт он сегодня по улице. Обгоняет мамку с пацаном 5-6 лет, пацан мамку спрашивает: &quot;Мам, а почему у дяди длинные волосы?&quot; Мать флегматично отвечает: &quot;Потому что боевые маги не стригут волос&quot;.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">3758da5fee7e304bddf65b37a1dbbdb954834ad07d0a8bf06afd94c54bc0f132</guid>
+			<link>http://bash.im/quote/427052</link>
+			<title>Цитата #427052</title>
+			<pubDate>Mon, 03 Mar 2014 12:45:01 +0400</pubDate> 
+			<description><![CDATA[xxx: Есть у меня один сотрудник с усами и бородой. Сегодня приходит - борода на месте, усов нет. На вопрос &quot;Зачем Володька сбрил усы?(с)&quot;, ответил, что болеет и сморкаться неудобно )))]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">9dd864b6b11fd6c47616f8b0844f61867ba39d0b43e042e8386df91b70cce1d1</guid>
+			<link>http://bash.im/quote/427051</link>
+			<title>Цитата #427051</title>
+			<pubDate>Mon, 03 Mar 2014 12:13:01 +0400</pubDate> 
+			<description><![CDATA[xxx:<br>Так и представляю себе ужастик: пошёл перед сном в душ, оставив два ноутбука работающими, приходишь, а они показывают друг другу разные QR-коды и издают странные звуки. Тебя увидели и затихли.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">6f186e3f2369b5f3794aa2f058e083a28bc4d8760bb5e585992f25a40279b82d</guid>
+			<link>http://bash.im/quote/427050</link>
+			<title>Цитата #427050</title>
+			<pubDate>Mon, 03 Mar 2014 11:46:01 +0400</pubDate> 
+			<description><![CDATA[<br>yyy: &quot;Заказчик: привет. хотел попросить вас не переносить сайт на домен, не предупредив меня заранее. Я фанат астрологии и мне крайне важно выбрать удачное время для этого.&quot;<br><br>xxx: Предлагаю новую услугу &quot;Разработка сайтов и информационных систем по фен шую, в соглассии с космичискими энергиями и вашим знаком зодиака&quot; а так же &quot;Заговор сайта от происков конкурентов&quot; &quot;Зарядка сайта позитивной энергией&quot; &quot;Приворот пользователей&quot;..<br>xxx: &quot;Сглаз конкурентов&quot;<br>xxx: ооооо &quot;гадание на PHP коде&quot;!!!]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">154533eaea3f757ceba93cf672b06085504aec5ffb5c3a8c761e86978fc5352a</guid>
+			<link>http://bash.im/quote/427049</link>
+			<title>Цитата #427049</title>
+			<pubDate>Mon, 03 Mar 2014 11:45:01 +0400</pubDate> 
+			<description><![CDATA[xxx: так, асмодеи<br>xxx: кто поприкалывался и записал меня в СПА САЛОН?<br>xxx: я выиграл в какой то у них там лотереи и в вск бесплатно пойду делать СПА процедуры для кожи лица и ВОЛОС!!!<br>xxx: я им говорю что я лысый!! они ржут но говорят ты выиграл - хотя бы лицо перед праздником поправь]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">a5d248c8159b269e2625ae1e31ec208c979d0711f9f4d53c8572c1740aebd39e</guid>
+			<link>http://bash.im/quote/427048</link>
+			<title>Цитата #427048</title>
+			<pubDate>Mon, 03 Mar 2014 11:12:25 +0400</pubDate> 
+			<description><![CDATA[я: Дорогая, ты на работу брала планшет. Компов там у вас точно нет, я помню. Но в оранжевой соцсети у тебя возле аватарки светился не синий квадратик, а оранжевый. Как ты это объяснишь?<br><br>жена: это потому, что я - чатланин!!]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">7999797adb9c92b74be923fb838fec392dc86b0e2c4b31614c43676e0cef5b5d</guid>
+			<link>http://bash.im/quote/427047</link>
+			<title>Цитата #427047</title>
+			<pubDate>Mon, 03 Mar 2014 11:11:42 +0400</pubDate> 
+			<description><![CDATA[На новосибирском форуме:<br>Валентин: Да что вы знаете о красивых встречах?<br>Дело было в далеком 2001 году. Я учился в Новосибирском театральном институте на последнем курсе. Завязался бурный роман с самой красивой девушкой факультета, она училась на два курса младше. Закончив институт, я поехал в Питер. Расставаться было тяжело, но мне нужно было строить карьеру, а ей продолжать обучение. Через семь лет приехал навестить родной город, и конечно зашел в театр, где работают наши выпускники. На сцене Ромео и Джульетта. Джульетту играет та самая Света. И в середине спектакля &quot;Ромео&quot; поплохело. Администрация срочно ищет замену, но все актеры заняты. Предлагают выйти мне. &quot;Настоящего Ромео&quot; рвет в туалете, меня по-быстрому гримируют, и в последний момент по зову Джульетты выбегаю я со словами &quot;Лишь назови меня своей любовью...&quot;. Не знаю, заметили ли зрители подмену, но Света была в шоке. Доиграли постановку мы так, что нам аплодировали стоя. Теперь мы женаты, и ждем второго сына :)<br>Ромео: Я только сейчас понял! Это ты мне тогда протухший пирожок с печенью подсунул, С9КА!!!]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">d8c356b8c63af5063e31d09d35841f856482251d84d6efd2df74d25ec108f331</guid>
+			<link>http://bash.im/quote/427046</link>
+			<title>Цитата #427046</title>
+			<pubDate>Mon, 03 Mar 2014 11:11:01 +0400</pubDate> 
+			<description><![CDATA[Хроническая усталость. Отрешенность... Ехал сегодня на работу, на обочине стояла собака. Притормозил, поморгал дальним в знак того, что пропускаю. Она посмотрела на меня удивленно пару секунд и быстренько перебежала дорогу.. потом до меня дошло :)]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">f707f0814e9dcb7e485c3f3016c79e169d3fe2279b805e709661f033b4597f65</guid>
+			<link>http://bash.im/quote/427045</link>
+			<title>Цитата #427045</title>
+			<pubDate>Mon, 03 Mar 2014 10:46:01 +0400</pubDate> 
+			<description><![CDATA[ххх: Как поздравить женщин на работе с 8 марта от мужского коллектива?<br>ннн: Дарите по ящику кружевного белья - обещает взлететь по курсу, даже если с размером не угадаете, может стать отличной валютой.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">d886b67a45c22013a9c8b21063bebf917f108f923d9b163c3f614f2d36e9a17c</guid>
+			<link>http://bash.im/quote/427044</link>
+			<title>Цитата #427044</title>
+			<pubDate>Mon, 03 Mar 2014 10:12:53 +0400</pubDate> 
+			<description><![CDATA[Комментарий к новости на опеннете о проблемах портирования GNOME:<br>Аноним: Во включении его в дебиан как систему старта по умолчанию. Под &quot;костылём&quot; я понимал на самого гнома, а его щупальце — systemd.<br>абыр: Психиатрический триллер &quot;Щупальце гнома&quot;.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">8d468ee8948b13f707579b420de3ec1e9f5cad45de197b1c5a7d2af4d2254a03</guid>
+			<link>http://bash.im/quote/427043</link>
+			<title>Цитата #427043</title>
+			<pubDate>Mon, 03 Mar 2014 10:12:09 +0400</pubDate> 
+			<description><![CDATA[mr.guest: Осознание того, что ты мудак - первый шаг к...<br>Решению проблемы?<br>Нет.<br>К депрессии.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">c1ee1febead1efbfaf57ecbf2e6a3bb300a7cb086d8845e4ceb948b51601e6ed</guid>
+			<link>http://bash.im/quote/427042</link>
+			<title>Цитата #427042</title>
+			<pubDate>Mon, 03 Mar 2014 10:11:01 +0400</pubDate> 
+			<description><![CDATA[Коммент под серией снимков лунной поверхности<br><br>- Кстати, почему фотки ч\б?]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">23d19a8159bf67d1edf4d9ba6ed9f169ef47c753ee5ceaa932ce6edb384f237c</guid>
+			<link>http://bash.im/quote/427041</link>
+			<title>Цитата #427041</title>
+			<pubDate>Mon, 03 Mar 2014 09:46:38 +0400</pubDate> 
+			<description><![CDATA[xxx: Инструкции для летчиков писаны кровью. Для сисадминов - вазелином.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">7b8a15ef801b871802c2bd4b5a3ad322ebadeeaf3aff19fafce3a0cf10fcbf68</guid>
+			<link>http://bash.im/quote/427040</link>
+			<title>Цитата #427040</title>
+			<pubDate>Mon, 03 Mar 2014 09:45:18 +0400</pubDate> 
+			<description><![CDATA[ххх: на это 23 февраля я существенно упростил жене выбор подарка- у меня проебался последний одинаковый носок и кончилась пена для бритья]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">a45c0e9599d8837f18dbfd6bd14d5e197ba17308295759166d23d09823fc7aa9</guid>
+			<link>http://bash.im/quote/427039</link>
+			<title>Цитата #427039</title>
+			<pubDate>Mon, 03 Mar 2014 09:44:01 +0400</pubDate> 
+			<description><![CDATA[Жена (про маленького ребёнка): Это кто такой сладкий тут ползает?<br>Я (с кухни): Это я бутерброд с шоколадным маслом уронил. Сейчас всё уберу.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">dbc0a745316f0872b251d61d3eae0eecce95cd683b9aa6a468f3935e9f40eb62</guid>
+			<link>http://bash.im/quote/427038</link>
+			<title>Цитата #427038</title>
+			<pubDate>Mon, 03 Mar 2014 09:13:01 +0400</pubDate> 
+			<description><![CDATA[Коллега по работе (К) работает инженером-конструктором, часто занимается упрощением конструкций с сохранением их эффективности. Разговорились о кино:<br>К: Я, кстати, на нового Робокопа вчера сходил.<br>Я: Да? Ну и как тебе? Понравилось?<br>К: Ну... На мой взгляд, в нём слишком много лишних деталей]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">c389a80e524f23d9d167d1d97721222baebdcbf4081745d98a771d0d344c7b96</guid>
+			<link>http://bash.im/quote/427037</link>
+			<title>Цитата #427037</title>
+			<pubDate>Mon, 03 Mar 2014 08:45:07 +0400</pubDate> 
+			<description><![CDATA[Alex: вот чудеса техники. поливала фикус, нечаянно легла грудью на клаву. Успела сделать скриншот и отправить его в дропбокс)<br>Надя: :O<br>Надя: сиськи кодят ......]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">98a602c94256fc5250cbdc6f5d586c20d4f979752e725c45b9822ccf887510ae</guid>
+			<link>http://bash.im/quote/427036</link>
+			<title>Цитата #427036</title>
+			<pubDate>Mon, 03 Mar 2014 08:44:36 +0400</pubDate> 
+			<description><![CDATA[xxx: звоню, чтобы заказать 8 пицц. сумма заказа - 5000р. оператор спрашивает: &quot;Вы без сдачи дадите?&quot;<br>xxx: я так подвисла, соображая, какие еще варианты. говорю, что видимо да.<br>xxx: тут она подвисла, почему &quot;видимо&quot; и стоит ли уточнять :)))]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">4492cbd0440250e7b70d3826750cafd49dbb199aa71febcd8c3cae18b5651aef</guid>
+			<link>http://bash.im/quote/427035</link>
+			<title>Цитата #427035</title>
+			<pubDate>Mon, 03 Mar 2014 08:44:01 +0400</pubDate> 
+			<description><![CDATA[Обсуждение камеры, снимающей в цвете в полной темноте, на 4pda.<br>exalter: Лишь бы не оказалось, что в эту камеру в полной темноте можно увидеть души умерших, заблудшие между небом и землей. Когда призраки поймут, что мы их видим, то попытаются выйти на контакт...<br>Японцы они такие. Я звонок смотрел.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">8bc57e680f7cc50032ee387a4b8d0f8a0d474b5392a4f6d072f31606986aab17</guid>
+			<link>http://bash.im/quote/427034</link>
+			<title>Цитата #427034</title>
+			<pubDate>Mon, 03 Mar 2014 08:13:01 +0400</pubDate> 
+			<description><![CDATA[Из обсуждения на Хабре закона об обязательной регистрации сайтов и хранении пользовательской информации.<br><br>Edheldor: Интересно, а если у меня на сайте сторонняя система комментариев, вроде Disqus, как хранить комментарии в течение полугода?<br>CyberAP: А это не касается вашего сайта. Комментарии принадлежат Дискусу.<br>bO_oblik: Это не мои комментарии — мне подбросили!]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">8a4ac28f5ccf630cfb9f90280a432e47831783a0da7e9d2103b7f468fe039d5f</guid>
+			<link>http://bash.im/quote/427033</link>
+			<title>Цитата #427033</title>
+			<pubDate>Sun, 02 Mar 2014 08:45:37 +0400</pubDate> 
+			<description><![CDATA[xxx: К сожалению, те, кто, как я, &quot;совы&quot;, давно поняли, что &quot;техподдержка 24/7&quot; на самом деле означает, что ночью в саппорте сидят психотерапевты, под тем или иным соусом уговаривающие потерпеть с решением проблемы до утра.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">565f5b3a3c27c91948503e44a200732e788655ed18addf102e451f4e5e209c9f</guid>
+			<link>http://bash.im/quote/427032</link>
+			<title>Цитата #427032</title>
+			<pubDate>Sun, 02 Mar 2014 08:45:01 +0400</pubDate> 
+			<description><![CDATA[xxx: Мне 40 лет, я работаю в банке, поэтому мне приходится носить черный костюм с красным галстуком. Поэтому я не люблю свою работу и постоянно хожу с хмурым выражением лица. Я лысый. И недавно мой коллега показал мне игру хитман...<br>ууу: ну теперь ты знаешь, как с ним поступить :)))))]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">253ad01d81fa67610dcf26b0de030e514bd8ea81085024fce8dfdb4f09eb6c0c</guid>
+			<link>http://bash.im/quote/427031</link>
+			<title>Цитата #427031</title>
+			<pubDate>Sun, 02 Mar 2014 08:13:02 +0400</pubDate> 
+			<description><![CDATA[lav: Захожу к Паше. Он по-домашнему лежит в кресле, в одних трусах и рубашке, ест чипсы и гладит кота.<br>lav: В спешке поправляясь, он заправил в трусы кота.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">923bece8d3c2ba8dc85c725b684c27cf5f3d2e871371c4cad888a12c00773e96</guid>
+			<link>http://bash.im/quote/427030</link>
+			<title>Цитата #427030</title>
+			<pubDate>Sun, 02 Mar 2014 08:12:03 +0400</pubDate> 
+			<description><![CDATA[Подслушано в столовой университета:<br><br>- ...Аня, даже не думай, ничего путного о биоэнергетике ты не напишешь!<br>- Почему? у меня есть знакомый, который занимался энергетикой.<br>- А ты вообще понимаешь, что энергетика и биоэнергетика - это абсолютно разные вещи? Ну, как молочник и молочница...]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">d6eb7282a509ab005f99adea8aa4af2619683c5fa9b5b6a88ea9792920a5827a</guid>
+			<link>http://bash.im/quote/427029</link>
+			<title>Цитата #427029</title>
+			<pubDate>Sun, 02 Mar 2014 08:11:01 +0400</pubDate> 
+			<description><![CDATA[Сегодня жена (Ж) рассказала. Она делает уколы в суставы. Приходит бабушка (Б) такая старенькая.<br><br>Б: Доктор, вы до Нового года мне два укола в сустав прописали. Помните?<br>Ж: Нет, не помню, но допускаю.<br>Б: Вы мне один укол сделали, а потом у меня инсульт случился. Только на этой неделе из больницы выписалась.<br>Ж(испуганно): Это не из-за укола.<br>Б: Я знаю, я о другом. Второй укол когда доделывать будем?]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">b2ae57378c3d78369cfbb93d0bf11cf09daa2e0177ba524fac5c69c16fb3daae</guid>
+			<link>http://bash.im/quote/427028</link>
+			<title>Цитата #427028</title>
+			<pubDate>Sat, 01 Mar 2014 08:45:11 +0400</pubDate> 
+			<description><![CDATA[xxx: суровые челябинские мужики играли в керлинг в офисном здании: погрузили бетонный блок (30 кг) на маленькую тележку и катали по коридорам, въехали в чей-то кабинет, снеся обналичник двери, получили золотую медаль от начальства в виде пиздюлей и довольные пошли по домам]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">45fc2015d778816d06c7263b722fb163552a0eba4a0a559be5a2522afd02ca05</guid>
+			<link>http://bash.im/quote/427027</link>
+			<title>Цитата #427027</title>
+			<pubDate>Sat, 01 Mar 2014 08:44:32 +0400</pubDate> 
+			<description><![CDATA[Фрагмент из новости о новом ТРЦ в Красноярске, который строят уже 11 лет:<br><br>&quot;Также у комплекса будет запланирована парковка на 500 машиномест. Она будет частично подземной и частично подземной.&quot;<br><br>Теперь ясно, почему строительство затянулось. Видимо, такое требование было у строителей в техзадании, и они несколько лет думали, что же имеется в виду )))]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">88b44454bc71a3990516ec1d9a81b29302b1ef7f128785d4791663a1d7766b6a</guid>
+			<link>http://bash.im/quote/427026</link>
+			<title>Цитата #427026</title>
+			<pubDate>Sat, 01 Mar 2014 08:44:01 +0400</pubDate> 
+			<description><![CDATA[xxx: А я уже давно понял, что наши депутаты принимают нечто потяжелее, чем законопроекты.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">ef3abd14395d4f44d9114c586cddec70096cdbddced487a9d5222c2c4b547bdc</guid>
+			<link>http://bash.im/quote/427025</link>
+			<title>Цитата #427025</title>
+			<pubDate>Sat, 01 Mar 2014 08:12:31 +0400</pubDate> 
+			<description><![CDATA[Chekov: Eсли с правильной стороны подойти к френдзоне, то можно увидеть сиськи]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">33fbe4ed3c1b3fcd53d4431e7a59efb82544ee2f902359f85b07f100d905bc65</guid>
+			<link>http://bash.im/quote/427024</link>
+			<title>Цитата #427024</title>
+			<pubDate>Sat, 01 Mar 2014 08:12:01 +0400</pubDate> 
+			<description><![CDATA[xxx: купите шашки или шахматы.<br><br>yyy: Ой, не надо. Это самый опасный вид спорта.<br>Мы как-то в студенческие годы заходили в склиф проведать нашего товарища-экстемала (у него был перелом одной ноги).<br>А рядом лежал бедолага-шахматист с винтовым переломом обеих ног. Он сидел на стуле и ход обдумывал, а ноги вокруг ножек стула обмотал и покачивался. Упал, сломал обе ноги вдрыск. А говорите шахматы...]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">37ad1a587f19304a6eb6d8dc21c8085666e268468fb2e2d9d626bf40a613742e</guid>
+			<link>http://bash.im/quote/427023</link>
+			<title>Цитата #427023</title>
+			<pubDate>Fri, 28 Feb 2014 13:12:01 +0400</pubDate> 
+			<description><![CDATA[Шурик: Да что ты знаешь об удаче?! У меня за эти два месяца трижды ремень грм рвался! И ни один клапан не погнуло!!!!!<br>KiM: Странное у вас, вазоводов, представление об удаче....]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">a43ac903c962dad6d3805dca8597c263c4c6eaeebc4b6b2c1d3f51b57e130de0</guid>
+			<link>http://bash.im/quote/427022</link>
+			<title>Цитата #427022</title>
+			<pubDate>Fri, 28 Feb 2014 12:46:01 +0400</pubDate> 
+			<description><![CDATA[Tdr: В четверг мы купили горшочек с крокусами.<br>В субботу на них появились цветочки. А в воскресенье Настя решила их поопылять.<br>Ковыряет цветки ватной палочкой и приговаривает: &quot;Б-з-з-з. Б-з-з-з. Б-з-з-з. А поцеловать?&quot;]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">7d66af51b27f6fe9c91573670774508ece746225e867399036c01ecfd35c9634</guid>
+			<link>http://bash.im/quote/427021</link>
+			<title>Цитата #427021</title>
+			<pubDate>Fri, 28 Feb 2014 12:12:49 +0400</pubDate> 
+			<description><![CDATA[С Хабра:<br><br>Nashev: Боюсь, человечество идет к эволюции по примеру спиртовых бактерий: сожрать из банки весь сахар, засрать всё вокруг себя спиртом, и подохнуть всей популяцией. Но, в отличие от тех бактерий, у человечества нет соседней банки на развод.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">0c86c0165c28f248086c9550c0e6363b374ed3d421f0f64e18053b08a4bf8b75</guid>
+			<link>http://bash.im/quote/427020</link>
+			<title>Цитата #427020</title>
+			<pubDate>Fri, 28 Feb 2014 12:12:01 +0400</pubDate> 
+			<description><![CDATA[&lt;ayvango&gt; Хоть кто-нибудь видел управляемую мультиварку, на которую можно по usb, rs232, или как ещё заливать новые прошивки, для того чтобы вручную определять собственные скрипты для готовки?<br>&lt;kobold&gt; думаешь хакнуть на безлимитный борщ?]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">8e8a4a8b8dbc5a975bc872ce1edabac4c480c294404f3333a5b35d6237b15428</guid>
+			<link>http://bash.im/quote/427019</link>
+			<title>Цитата #427019</title>
+			<pubDate>Fri, 28 Feb 2014 11:46:01 +0400</pubDate> 
+			<description><![CDATA[Из комментариев к теме &quot;Samsung запатентовала стилус с микрофоном и динамиком&quot; на 4пда.<br><br>Vio32: Если бы еще можно было один его край согнуть и вставить в ухо, а микрофон по щеке направить ко рту вышла бы отличная гарнитура!<br>docZz: Край? Может быть, конец?<br>yurez_z_z: Согласитесь, фраза &quot;конец согнуть и вставить в ухо&quot; звучала бы на грани фола]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">62bd08de00635bfaada517504d3d431667da38912e33797606975f08f18dff63</guid>
+			<link>http://bash.im/quote/427018</link>
+			<title>Цитата #427018</title>
+			<pubDate>Fri, 28 Feb 2014 11:12:13 +0400</pubDate> 
+			<description><![CDATA[xxx:<br>Видел статусы у друзей в ВК<br>У неё: &quot;Мозги, сердце - все это органы одного организма. Почему же они противоречат зачастую друг другу?&quot;<br>И у него: &quot;У человека два глаза, один правый, третий - колено. И почему печень аорте не аппендицит?&quot;]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">2b2bc8179bac73c850b37ec5fdeeb3f41c9035d5e1b15634ebf554b644b22637</guid>
+			<link>http://bash.im/quote/427017</link>
+			<title>Цитата #427017</title>
+			<pubDate>Fri, 28 Feb 2014 11:11:41 +0400</pubDate> 
+			<description><![CDATA[xxx: Подождите, вы правда обсуждаете USB хаб? Простой просто хаб, хаб в котором только хаб и который работает только как хаб? О_о<br>yyy: Да<br>xxx: ну и дела<br>zzz: Это Хабр, в постах про лунную миссию обсуждают пельмени, в постах про роботов обсуждают девушек, в постах про усб-хаб обсуждают хаб!]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">c4090f8919633b720faf9ca5ba20bad192501559e35a72be0a33a3f80cf7241c</guid>
+			<link>http://bash.im/quote/427016</link>
+			<title>Цитата #427016</title>
+			<pubDate>Fri, 28 Feb 2014 11:11:01 +0400</pubDate> 
+			<description><![CDATA[Самохвал: сижу, пишу ТЗ<br><br>Самохвал: Во фразе &quot;Для дистанционного управления тиристорной выпрямительной системой предусмотрена возможность подключения SNMP адаптера&quot;, Ворду не понравилось слово &quot;тиристорной&quot;. Варианты исправления &quot;Тиристор ной&quot;, &quot;Тиристор Ной&quot;. То есть видимо у ребят из майкрософта существует Книга Бытия Тиристоров. Тиристор Ной родил тиристоров Сима, Хама и Иафета.<br>]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">2f1bd81fce5a89377aa980f494e2dcac42f97798a226f45d8d4074c710375100</guid>
+			<link>http://bash.im/quote/427015</link>
+			<title>Цитата #427015</title>
+			<pubDate>Fri, 28 Feb 2014 10:46:01 +0400</pubDate> 
+			<description><![CDATA[dr.Provocateur: я сегодня проспала на работу, потому что мне снилось, что мне звонят с того света и нельзя брать трубку, а надо сбрасывать]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">56080af294233582e8ee17bc9b849e1d8c200eb392bc2458a118c411376bb795</guid>
+			<link>http://bash.im/quote/427014</link>
+			<title>Цитата #427014</title>
+			<pubDate>Fri, 28 Feb 2014 10:12:34 +0400</pubDate> 
+			<description><![CDATA[xxx: Внешность - это далеко не самое главное, совершенно неважно, как человек выглядит и одевается, важно то, что у него внутри.<br>yyy: Ты говоришь как типичный зомби...]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">1274568614d6b16add120aaf8b416618ed5ccf0fc53fd71e28b9db7ff6a19280</guid>
+			<link>http://bash.im/quote/427013</link>
+			<title>Цитата #427013</title>
+			<pubDate>Fri, 28 Feb 2014 10:11:51 +0400</pubDate> 
+			<description><![CDATA[Обсуждение Counter-Strike Global Offensive:<br>xxx: Да ладно?! Я в нее сел поиграть, чуть не вывернуло. Слишком аркадная модель, все упрощено до уровня олигофренов. Одно то, что оружие покупается сразу с патронами, сразу отвернуло меня от игры. И так во всем в CS:GO.<br><br>yyy: Ищущих настоящего реализма ждут в военкомате.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">a7da94fb745621947d00e7b702c1ce726172479a5ccbb21f52ae7fe3de48bbd6</guid>
+			<link>http://bash.im/quote/427012</link>
+			<title>Цитата #427012</title>
+			<pubDate>Fri, 28 Feb 2014 10:11:01 +0400</pubDate> 
+			<description><![CDATA[nfrcf@lj: Тут вот народ испереживался, что в ТС кружевные трусы запрещают к продаже.<br>zloradskij: ТС - это где?<br>nfrcf: Таможенный Союз<br>zloradskij: Это, наверно, древнее проклятие атлантов такое. Какой бы Союз русские не строили, он почему-то всегда норовит оставить своих жертв без трусов...]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">ee077f9713240311c059356003bf308f2f5163bec50ac38cd8b4949ca12b9cf9</guid>
+			<link>http://bash.im/quote/427011</link>
+			<title>Цитата #427011</title>
+			<pubDate>Fri, 28 Feb 2014 09:45:50 +0400</pubDate> 
+			<description><![CDATA[Комментарий к раздаче:<br>Очень понравилась атмосфера кинотеатра, а звон мобильника и фраза &quot;я перезвоню!&quot; создает неповторимый колорит и ощущение присутствия сидящих рядом, эти тонкие женские голоса не дают заскучать. В самом начале фильма тихий голос &quot;я тебя люблю..&quot; и чмок.. трогает до глубины души..]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">fda5bb50579228dad3371fb5c4dd8d7e715a383b816591031b9498d776c74d27</guid>
+			<link>http://bash.im/quote/427010</link>
+			<title>Цитата #427010</title>
+			<pubDate>Fri, 28 Feb 2014 09:44:53 +0400</pubDate> 
+			<description><![CDATA[d: Кстати, что было на разговоре о тайм-менеджменте?)<br>s: Помню, что докладчик не смог прийти.<br>s: сначала задержался, а потом перенес доклад.<br>]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">4cc1500bc3f3149353e59ba19bd5176bdbf3d802e523cd168832889f0fda21cb</guid>
+			<link>http://bash.im/quote/427009</link>
+			<title>Цитата #427009</title>
+			<pubDate>Fri, 28 Feb 2014 09:44:01 +0400</pubDate> 
+			<description><![CDATA[Ксеня: у тебя все там совсем безысходно и тленно? )<br>Кирилл: У меня всё солнечно и позитивно. А вот при взаимодействии со мной предметов, людей и животных, всё сложно и не ясно.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">c5ee5042fcc7e9461240b55b394ed387df86c5eac6e84c8c21c08aea9de60155</guid>
+			<link>http://bash.im/quote/427008</link>
+			<title>Цитата #427008</title>
+			<pubDate>Fri, 28 Feb 2014 09:12:55 +0400</pubDate> 
+			<description><![CDATA[(семейные разговоры о лишнем весе)<br>Я: Пора уже смотреть правде в глаза! Я расширяюсь! Как вселенная...Да я просто космос! 0_о<br>Муж: Вот была бы ты бизнесом - было бы хорошо даже, что ты расширяешься =)]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">3e1f17279c2472fbd5de34105a16380abb2a9a9ae5dc4d0fe446ccb9d85b1649</guid>
+			<link>http://bash.im/quote/427007</link>
+			<title>Цитата #427007</title>
+			<pubDate>Fri, 28 Feb 2014 09:11:36 +0400</pubDate> 
+			<description><![CDATA[xxx: у него борода не растет по середине<br>xxx: я как-то ляпнула, что у него там моисей<br>xxx: и это пошло в народы]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">7a68edfe898eeaad2b8feca458113d76e2cbac5fa18a1e0e7451edc600b67e16</guid>
+			<link>http://bash.im/quote/427006</link>
+			<title>Цитата #427006</title>
+			<pubDate>Fri, 28 Feb 2014 09:11:01 +0400</pubDate> 
+			<description><![CDATA[Антон: два раза звонили Евгению в Вольске - спрашивали как он настраивал IPTV.<br>Антон: Евгений реагировал грубо и отвечал невнятно<br>Антон: после 3 звонка оказалось, что Евгений - не Евгений,а Дмитрий<br>Антон: и телефон мы набирали неправильно]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">8f4c3cc7a84cd996842d33b0183ef640191d2639d6ebb01cdd34fd8c1f9ddb4a</guid>
+			<link>http://bash.im/quote/427005</link>
+			<title>Цитата #427005</title>
+			<pubDate>Fri, 28 Feb 2014 08:46:01 +0400</pubDate> 
+			<description><![CDATA[xxx: Палка, палка, огуречик - вот и вышел человечек... <br>xxx: А теперь добавить ножик - получился Россомаха.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">7543bfa13cb9c7601529b0b3ba0e67bc5ecfe99c26f8f9b9812e3221ee4632f8</guid>
+			<link>http://bash.im/quote/427004</link>
+			<title>Цитата #427004</title>
+			<pubDate>Fri, 28 Feb 2014 08:13:01 +0400</pubDate> 
+			<description><![CDATA[Про подарки второй половине:<br>xxx: Ахах, я тут купил на НГ подарок, пока он из Америки доехал, хозяйка поменялась]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">50f1b571e01505718ed4f70b14378ae88bf2bba5045c8660a3d3159fff25e1e7</guid>
+			<link>http://bash.im/quote/427003</link>
+			<title>Цитата #427003</title>
+			<pubDate>Thu, 27 Feb 2014 12:46:15 +0400</pubDate> 
+			<description><![CDATA[xxx:<br>Забираю после работы жену, садится в машину, на меня поглядывает. Едем, слушаем радио. Вдруг ни с того ни с сего начинаются наезды.<br><br>- Ты ничего не замечаешь!<br>- Что я должен замечать?<br>- Например, что я постриглась!.<br><br>Смотрю на нее. Сидит в шапке.<br><br>- Шапку сними... страдалец)))]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">82b2f868c7af140400b60b6a822a7eb88f7c06e7a037b4b5cbbeb3f8f725fe2c</guid>
+			<link>http://bash.im/quote/427002</link>
+			<title>Цитата #427002</title>
+			<pubDate>Thu, 27 Feb 2014 12:45:01 +0400</pubDate> 
+			<description><![CDATA[xxx: В начале было слово, и слово было в лаборатории, и слово было &quot;Упс...&quot;]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">b7c81ac60a58fc9b4b097544336a3190a98c6d81ba44eec2853b38f6d10436ad</guid>
+			<link>http://bash.im/quote/427001</link>
+			<title>Цитата #427001</title>
+			<pubDate>Thu, 27 Feb 2014 12:12:45 +0400</pubDate> 
+			<description><![CDATA[Silver_metal:<br>представляю, как праноеды друг другу жалуются: &quot;сорвался вчера... воды попил&quot;.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">5193531207b268f89ed630b1e8b370b7545d72a628071400e4df6d4b23f4f458</guid>
+			<link>http://bash.im/quote/427000</link>
+			<title>Цитата #427000</title>
+			<pubDate>Thu, 27 Feb 2014 12:11:36 +0400</pubDate> 
+			<description><![CDATA[Из обсуждения о термальной электростанции, с множеством зеркал.<br><br>WWW: Если фокус поменять — можно спутники сбивать.<br>XXX: Океан подогревать и людей испепелять.<br>YYY: Дельтапланы удивлять, дирижабли поджигать.<br>ZZZ: Учат в школе учат в школе учат в школе о_О]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">de39df53fab95b79c9bf51f8a102510e8bf32ff15204c31f119ac2913c52beb2</guid>
+			<link>http://bash.im/quote/426999</link>
+			<title>Цитата #426999</title>
+			<pubDate>Thu, 27 Feb 2014 12:11:01 +0400</pubDate> 
+			<description><![CDATA[xxx: проверяю смету<br>xxx: мне хочется подарить в отделе каждому по 2 калькулятора<br>yyy: два?<br>xxx: на одном чтоб считали<br>xxx: а вторым уебать по голове]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">560904c2a9d9e9ca1bb09b41bf9460a4f9abe1386f5a05340d3ea42c5c13f793</guid>
+			<link>http://bash.im/quote/426998</link>
+			<title>Цитата #426998</title>
+			<pubDate>Thu, 27 Feb 2014 11:46:01 +0400</pubDate> 
+			<description><![CDATA[ir_kill:<br>Я: Здравствуйте. Мне нужна справка с места работы для переоформления кредитки на наш зарплатный проект. И договор подписать надо. Вы не могли бы передать в наш офис с оказией?<br><br>Секретарь: Здравствуйте, справку с места работы оформляет наш офис-менеджер, договоры готовые осталось только с вашей стороны подписать<br>...<br>Секретарь: Не поняла с кем просите передать?]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">8bb69f00ab245bae5457a74911baef8772287f8126b9ba89e51b22213d85ce4e</guid>
+			<link>http://bash.im/quote/426997</link>
+			<title>Цитата #426997</title>
+			<pubDate>Thu, 27 Feb 2014 11:13:02 +0400</pubDate> 
+			<description><![CDATA[С Хабра, из коментов под статьёй о том, как маркетолухи дурят покупателей:<br><br>leon_ti:<br>Гы, а я вспомнил старый анекдот, как моя коллега — будучи молодым специалистом в авиационном НИИ — пришла получать на складе по накладной спирт этиловый ректификованный в количестве пяти килограмм.<br>Будучи молодым инженером, она рассчитала объем получаемого материала и взяла с собой пятилитровую канистру и ещё бутылку.<br>Кладовщик ей налил канистру и закрыл наряд. Коллега потребовала долива. Кладовщик долго не врубался, пришлось обращаться к руководству.<br>Получился скандал все-институтского масштаба, ибо за весь исторический период спирт покупали и списывали килограммами, а выдавали — литрами.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">2bacfb83358c739240d848d85d5276d0b29e5b22f8197e77cdc4f819a240d9d2</guid>
+			<link>http://bash.im/quote/426996</link>
+			<title>Цитата #426996</title>
+			<pubDate>Thu, 27 Feb 2014 11:12:01 +0400</pubDate> 
+			<description><![CDATA[DerArto: Плоха та уборщица, что не мечтает стать кёрлингисткой.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">0f3463b268cb5add97591cf41b5aab5b2179394013685bf36517196afc9ec19d</guid>
+			<link>http://bash.im/quote/426995</link>
+			<title>Цитата #426995</title>
+			<pubDate>Thu, 27 Feb 2014 10:45:47 +0400</pubDate> 
+			<description><![CDATA[xxx: Перешёл тут с генты на дебиан. Вот это счастье! Раньше программы компилил по 2 часа, теперь ставлю за 2 минуты.<br>yyy: Чего же раньше не перешёл?<br>xxx: Любимый кактус. Как не доесть?<br>xxx: Ты ещё не видела, с какой болью в сердце перешёл<br>xxx: Вот где чистая и искренняя любовь<br>xxx: А не все эти пошлые истории<br>yyy: Кааак милооо)<br>xxx: Эта история милая, но жестокая. Ведь я её убил в конце.<br>yyy: Шекспир про таких книжки писал!<br>yyy: Ты что!<br>xxx: :D<br>xxx: Не ведали историю печальнее, чем ту,<br>xxx: В которой Михаил убил свою Gentoo]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">28abef2a80a2ae99236300c0bd15c5e92c2ba5dc276faf9499fbbdc3167b3558</guid>
+			<link>http://bash.im/quote/426994</link>
+			<title>Цитата #426994</title>
+			<pubDate>Thu, 27 Feb 2014 10:45:01 +0400</pubDate> 
+			<description><![CDATA[&lt;sh0dan&gt; вот всё-таки есть кое-что хорошее в хабре<br>&lt;sh0dan&gt; я только что осознал<br>&lt;sh0dan&gt; он мне заменяет журнал &quot;Юный Техник&quot;]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">6e648d83ea70a41c71ffaefadf0fde1b6e4a58306031aeca8a54aab18325cb15</guid>
+			<link>http://bash.im/quote/426993</link>
+			<title>Цитата #426993</title>
+			<pubDate>Thu, 27 Feb 2014 10:12:34 +0400</pubDate> 
+			<description><![CDATA[На Хабре обсуждается статья о выращивании личинок в домашних условиях для питания. Из комментов:<br><br>verydima<br>Может, если из них сделать колбасу, она будет лучше нашей, из туалетной бумаги или отходов мясной промышленности.<br><br>hostadmin<br>Забыл колбасу в тепле… получай на утро 150 кг. колбасы!]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">db10f505dfcbeaa4742484aacf1f5330409d3840ad9154afdc774390edeae94a</guid>
+			<link>http://bash.im/quote/426992</link>
+			<title>Цитата #426992</title>
+			<pubDate>Thu, 27 Feb 2014 10:11:52 +0400</pubDate> 
+			<description><![CDATA[Подслушал у первокурсников:<br>- Слышали, какой-то остров назвали в честь языка программирования...]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">d3d8146f9d177995d47af6e7447c1521155d13a70137b9a3087641911cae78f5</guid>
+			<link>http://bash.im/quote/426991</link>
+			<title>Цитата #426991</title>
+			<pubDate>Thu, 27 Feb 2014 10:11:01 +0400</pubDate> 
+			<description><![CDATA[ххх: Вагонный чай подобен аэрофлотовской курице, только в стакане.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">bdcf7f78587fd5a2ade30f56d9ea4a66136dc48f0749bce81486da3eec03621c</guid>
+			<link>http://bash.im/quote/426990</link>
+			<title>Цитата #426990</title>
+			<pubDate>Thu, 27 Feb 2014 09:45:51 +0400</pubDate> 
+			<description><![CDATA[ххх: Люблю умных девушек, но вот бида бида - они умные и поэтому не любят меня(]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">9b1d5b2465fc6414672320f82eb59c08c2cc17b7c32ecc6998a213374e7e1392</guid>
+			<link>http://bash.im/quote/426989</link>
+			<title>Цитата #426989</title>
+			<pubDate>Thu, 27 Feb 2014 09:44:45 +0400</pubDate> 
+			<description><![CDATA[xxx: Если ты спишь, пришли мне свои сны. Если ты смеешься, пришли мне свою улыбку. Если ты ешь, пришли мне кусочек. Если ты пьешь, пришли мне глоток. Если ты плачешь, пришли мне слезинку. Я люблю тебя!<br>yyy: Я на толчке. Прошу совета.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">f5bf747d74578e1d4397c2e0fc132f81eae33124d651c63a488a4e1fc4dedc80</guid>
+			<link>http://bash.im/quote/426988</link>
+			<title>Цитата #426988</title>
+			<pubDate>Thu, 27 Feb 2014 09:44:01 +0400</pubDate> 
+			<description><![CDATA[ххх: слухай, а чё в СССР не было кёрлинга?<br>ууу: ну камни на льду, мётлы для подметания снега - буржуйская игра<br>ххх: ага, то я гляжу сегодня буржуи с мётлами и лопатами у нас сегодня под окном с самого утра<br>ууу: ты погляди на их дорогущие оранжевые одежды<br>ххх: точняк, буржуи<br>ххх: вчера видел, как один из буржуев шампанским похмелялся, прям по Маяковскому<br>ууу: классический я бы сказал]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">9f4ab8bb9ff102d54ca9d184eb216ce6816f60600dbafbd1d78603ed5cfbbcdc</guid>
+			<link>http://bash.im/quote/426987</link>
+			<title>Цитата #426987</title>
+			<pubDate>Thu, 27 Feb 2014 09:13:01 +0400</pubDate> 
+			<description><![CDATA[На ночь среди прочего закинул в стирку дорогие спортивные носки - 4 пары. Утром развешиваю белье - носков только 3 пары. Что за...? Ясное дело, зажевало в машине, между стенками барабана. С матюками принялся разбирать. Раскидал машину наполовину. Тут звонит жена: &quot;Хотела тебе сказать, что твои носки на батарею повесила, чтоб быстрее высохли&quot;.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">38cda9ee268a729588f0a86fcb057a5aaa726830416b039ee315f5d2998f993b</guid>
+			<link>http://bash.im/quote/426986</link>
+			<title>Цитата #426986</title>
+			<pubDate>Thu, 27 Feb 2014 08:46:01 +0400</pubDate> 
+			<description><![CDATA[kemerov4anin: да она настолько отчаилась найти себе парня, что даже айфон купила сама.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">6353bf86e9d7a8dce4064955c4046bd75ecc8014862b304828d5eb3ae46debdf</guid>
+			<link>http://bash.im/quote/426985</link>
+			<title>Цитата #426985</title>
+			<pubDate>Thu, 27 Feb 2014 08:12:47 +0400</pubDate> 
+			<description><![CDATA[Едем с девушкой домой в автобусе. Зима, окна замерзшие, видно плохо. Много народу стоит. Нам нужно выходить на улице Школьной. Мужик впереди:<br>- Остановите на Школьной!<br>Спустя какое-то время другой:<br>- На Школьной пожалуйста!<br>Тут подливает масла в огонь моя девушка: вытаскивает наушник, и тоже кричит:<br>- Остановите на Школьной!<br>Первый мужик думает, что уже проехали (через окна ничего не видно):<br>- Водитель, на Школьной просили!!!<br>Пол автобуса начинает орать про несчастную Школьную. Водитель:<br>- Хорошо, но можно я до нее сначала доеду!!?<br>]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">46f2d3c765e04514254a9b2de259bdccd48c8ef0e68cdefebde2c9a3f7130b13</guid>
+			<link>http://bash.im/quote/426984</link>
+			<title>Цитата #426984</title>
+			<pubDate>Thu, 27 Feb 2014 08:12:01 +0400</pubDate> 
+			<description><![CDATA[xxx: А я купила себе абонемент в спорт клуб )))<br>yyy: Теперь носишь его с собой как амулет? 8))]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">12e5ec9e3d0fb228961d5946f7fad37985d494301e3676079df8ac40ce9c4744</guid>
+			<link>http://bash.im/quote/426983</link>
+			<title>Цитата #426983</title>
+			<pubDate>Wed, 26 Feb 2014 12:12:13 +0400</pubDate> 
+			<description><![CDATA[Будни студентов медфака. Фармакология.<br><br>ххх:<br>Если бы гомеопатия была действенной, то морской водой давно лечили бы все болезни. Ведь в ней так или иначе побывали все известные и неизвестные лекарства.<br><br>ууу:<br>Однако в морской воде побывали также и все известные яды! Убийственный эффект морской воды примерно равен лечащему, в сумме имеем ноль, что легко доказывается на практике!<br><br>Шах и мат, противники гомеопатии!]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">2272486b3c23fe7dc055c45523dcfd266b70d58ea4da44b980c4608a30738ca6</guid>
+			<link>http://bash.im/quote/426982</link>
+			<title>Цитата #426982</title>
+			<pubDate>Wed, 26 Feb 2014 12:11:01 +0400</pubDate> 
+			<description><![CDATA[xxx: Ад автомобилиста - парковка у детской поликлиники в 8 утра.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">5590258d69f60db70b71c3dd35e39bfddd1eb31620c49065c837e325479fc841</guid>
+			<link>http://bash.im/quote/426981</link>
+			<title>Цитата #426981</title>
+			<pubDate>Wed, 26 Feb 2014 11:46:22 +0400</pubDate> 
+			<description><![CDATA[С 4pda:<br>deven01: раньше зубная щетка с WiFi вызывала только улыбку.<br>feldwebeldash: а сейчас не вызывает чтоли?<br>deven01: уже доводит ее до блеска.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">8fef324078e12135b54ac748619b1147682698007595bd988817f8c980caa43c</guid>
+			<link>http://bash.im/quote/426980</link>
+			<title>Цитата #426980</title>
+			<pubDate>Wed, 26 Feb 2014 11:45:11 +0400</pubDate> 
+			<description><![CDATA[В день влюбленных пошли с мужем в секс-шоп, купили на меня офигенный комплектик с чулочками.<br>Осталось определиться, кому это подарок - мне или ему.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">04a664d0a6b2397e03c4fa83b1359374e3414fea777e638e9f9df6c99c7488cc</guid>
+			<link>http://bash.im/quote/426979</link>
+			<title>Цитата #426979</title>
+			<pubDate>Wed, 26 Feb 2014 11:44:01 +0400</pubDate> 
+			<description><![CDATA[xxx: А че Антон Борисыча у вас кличут Линусом? В красноглазии замечен вроде не был...<br>yyy: Каждый год у нового потока студентов возникает этот вопрос. История, передаваемая из поколения в поколение гласит: Читал как-то Линус лекцию и изрек:<br>... Многие, изучив синтаксис языков С или С++, считают, что уже научились программировать и немедленно начинают писать операционную систему. Видимо им не дают покоя лавры Билла Гейтса. Должен отметить, что Билл Гейтс ничего оригинального в своей жизни не писал и написать не мог. Единственный его дар это дар переписчика. Переписав QDos он получил MSDOS, переписав MacOs - ранние версии Windows, а что он получил переписав OS/2 мы можем наблюдать и сейчас. Опять же отмечу, что не все переписчики достойны осуждения. Тот же Линукс Торвальдс... Как вы говорите? Его зовунт Линус? На его месте я бы подумал об исправлении имени.<br>yyy: C тех пор Антона Борисовича все студенты за глаза зовут Линусом...]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">76893caafa6035222eba535325385be21f96eb59e125817b00aa40edf1986cd0</guid>
+			<link>http://bash.im/quote/426978</link>
+			<title>Цитата #426978</title>
+			<pubDate>Wed, 26 Feb 2014 11:13:01 +0400</pubDate> 
+			<description><![CDATA[xxx: блин, с утра из соседнего офиса дикие женские крики, как будто кого-то убивают<br>ххх: оказалось, всего лишь навсего трансляция керлинга]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">1391c638ce7dcaf36bccf6ac3297c1ddf6b2af65039d01843651936fc2d91c80</guid>
+			<link>http://bash.im/quote/426977</link>
+			<title>Цитата #426977</title>
+			<pubDate>Wed, 26 Feb 2014 10:45:34 +0400</pubDate> 
+			<description><![CDATA[О преподавателе, которому никто из группы не сдал экзамен:<br>xxx: После того, что он с нами сделал, он обязан на всех нас жениться.<br>ххх: Жалко, что многоженство запрещено законом.<br>ххх: Мы бы все его забили сковородками.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">4bec28bfae6a6335d99f4ebb3917b7e16d50918566ca4f7c04913db4d4834245</guid>
+			<link>http://bash.im/quote/426976</link>
+			<title>Цитата #426976</title>
+			<pubDate>Wed, 26 Feb 2014 10:44:37 +0400</pubDate> 
+			<description><![CDATA[&lt;Moduvator&gt; Господа, это прекрасно. В нашей комнате внезапно заработала приточная вентиляция — после того, как в помещении под нами прочистили канализацию.<br>&lt;Moduvator&gt; Они только что вывели понятие &quot;сделать через жопу&quot; на новый уровень.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">555b19f7f6446ab682a573dae3d5e50891c8c308d9a4e181134d25d7be4fc2b7</guid>
+			<link>http://bash.im/quote/426975</link>
+			<title>Цитата #426975</title>
+			<pubDate>Wed, 26 Feb 2014 10:44:01 +0400</pubDate> 
+			<description><![CDATA[xxx: На олимпиаде в Лондоне спортсменам выдавали презревативы.<br><br>yyy: А смысл? Ведь любой из этих спортсменов достаточно обеспечен, чтобы таскать с собой в джентельменском наборе не только несколько упаковок разных дорогих презервативов, но и носки, трусы и так далее..<br><br>zzz: А также кипятильник и туалетную бумагу — мой батя в командировку всегда брал :D]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">c33ab03d2c311c8d0f342a591408fb95421243adb3a5af74a4590dfd6b1289e4</guid>
+			<link>http://bash.im/quote/426974</link>
+			<title>Цитата #426974</title>
+			<pubDate>Wed, 26 Feb 2014 10:13:19 +0400</pubDate> 
+			<description><![CDATA[AXEL:<br>Мир - театр абсурда:<br><br>Вчера ходил в театр, у входа все как обычно: рамки хренпоймичего детектора и охранник.<br>Людей было много, поэтому рамки пиликали на каждом. Я шел с рюкзаком. Естественно, меня охранник попросил показать сумку.<br>У меня было много чего &quot;интересного&quot;: нож и фотоаппарат в сумке, перцовка в кармане.<br>Но выложить он попросил именно воду! &quot;Со своими напитками нельзя!&quot; - сказал он...]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">9eb7186bf09890cea5559da3393b508e81c4d6a76951b719b242fc6a4eb1cfe8</guid>
+			<link>http://bash.im/quote/426973</link>
+			<title>Цитата #426973</title>
+			<pubDate>Wed, 26 Feb 2014 10:12:01 +0400</pubDate> 
+			<description><![CDATA[Клиент: А разве не на каждую страницу не надо ставить этот код?<br>Я: У вас сайт из одной страницы состоит :)<br>Клиент: круто )))) спасибо ))))]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">7d1e541a151f8b0128f244b3918a583964f1ccd0f7afeaa18dd8a9c99832f1b7</guid>
+			<link>http://bash.im/quote/426972</link>
+			<title>Цитата #426972</title>
+			<pubDate>Wed, 26 Feb 2014 09:46:07 +0400</pubDate> 
+			<description><![CDATA[Пишу на работе для конкурса тестировщиков программу с багами.<br><br>Lightbit: Как трудно быдлокодить специально.<br>Ol5xHd: Просто пиши свой обычный код, не заморачивайся.<br>Lightbit: Сцуко ты.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">d395ff57a3e4bca208265c5adcf58e69aecc3fed51b64b059043ef5ea78e5679</guid>
+			<link>http://bash.im/quote/426971</link>
+			<title>Цитата #426971</title>
+			<pubDate>Wed, 26 Feb 2014 09:45:08 +0400</pubDate> 
+			<description><![CDATA[Обсуждение цен на билеты этапа формулы 1 в Сочи<br>xxx: цены на билеты от 550р до 200к обещают будут<br>yyy: за 200к сажают на место водителя болида?]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">a9c70ee57bd35a501a0e27f29a56a39ee7cd89c2963043ead20d20c2c00c3d22</guid>
+			<link>http://bash.im/quote/426970</link>
+			<title>Цитата #426970</title>
+			<pubDate>Wed, 26 Feb 2014 09:44:01 +0400</pubDate> 
+			<description><![CDATA[Обсуждение попытки запрета продажи иностранного оборудованя связи в РФ:<br><br>ххх: Вообще театр абсурда. Сегодня вон женские кружевные трусы запретили. На фоне этого идея запретить иностранное связное оборудование выглядет дебильной, но вполне реальной.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">c0625aabd04d38ca0b249dae0105120f977db55b4d14ee9357b385e28baa28b9</guid>
+			<link>http://bash.im/quote/426969</link>
+			<title>Цитата #426969</title>
+			<pubDate>Wed, 26 Feb 2014 09:13:12 +0400</pubDate> 
+			<description><![CDATA[xxx:<br>Мир глазами кота: если сидеть перед закрытой дверью, смотреть на неё и периодически покрикивать - она откроется.]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">a468e293f6474adea297f80cf81e3a502706cd9903511d6befb2f62ecbc9cc89</guid>
+			<link>http://bash.im/quote/426968</link>
+			<title>Цитата #426968</title>
+			<pubDate>Wed, 26 Feb 2014 09:12:07 +0400</pubDate> 
+			<description><![CDATA[xxx: Замечательная фраза, сказанная в автобусе женщиной в день Святого Валентина: «На хрен мне твои цветы, купленные на мои деньги?!»]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">5d5bd84e910d857412c2616cc9aaec64138c23de8774405c644262a7fa5af311</guid>
+			<link>http://bash.im/quote/426967</link>
+			<title>Цитата #426967</title>
+			<pubDate>Wed, 26 Feb 2014 09:11:01 +0400</pubDate> 
+			<description><![CDATA[xxx: Бывает так, находишь новый трек, и с первых нот понимаешь - ТВОЁ. Симфония, ритмы, ноты так и ласкают слух...<br>xxx: Но потом солист открывает рот =(]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">6527d4dd2ba7545c22c732b25db3388d507e99ae8efd3f288474c8d0a91c7207</guid>
+			<link>http://bash.im/quote/426966</link>
+			<title>Цитата #426966</title>
+			<pubDate>Wed, 26 Feb 2014 08:46:04 +0400</pubDate> 
+			<description><![CDATA[anna_k: а часто такое бывает, что что-то выкатывается в пятницу вечером?<br>boratustra: раз в неделю только<br>max_m: но только если в этой неделе есть пятница<br>anna_k: аа, ну в принципе ок, не часто получается]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">5143c00ab53d1926e59ff4bb14f1f47eac5e5566231c29454fe559b6b7b33d29</guid>
+			<link>http://bash.im/quote/426965</link>
+			<title>Цитата #426965</title>
+			<pubDate>Wed, 26 Feb 2014 08:45:01 +0400</pubDate> 
+			<description><![CDATA[Начальник отдела: Вова, отреагируй на заявку - &quot;Рабочий стол не мой, нет программ&quot;<br>Вова: пересела за другой компьютер, рабочий стол с собой не взяла, я чем могу помочь?]]></description>	
+		</item>
+		<item>
+			<guid isPermaLink="false">e16d576d81ca5cd86c8471aa110b0948a65ffbf7575e129878ce9d5e0641090c</guid>
+			<link>http://bash.im/quote/426964</link>
+			<title>Цитата #426964</title>
+			<pubDate>Wed, 26 Feb 2014 08:13:01 +0400</pubDate> 
+			<description><![CDATA[ххх: Знаешь сколько длятся сутки на Плутоне?<br>ххх: 152 часа!<br>ууу: это как понедельник на Земле...]]></description>	
+		</item>
+	</channel>
+</rss>
